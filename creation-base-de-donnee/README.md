@@ -4,11 +4,15 @@
 
 Rémy Guibert et Christopher Marie-Angélique (https://github.com/Chris-973)
 
-## Contexte :
+## Langages et Outils informatique utilisés :
 
-Projet créer dans le cadre d'une Situation d'Apprentissage et d'Évaluation à l'Institue Universitaire de Technologie de Blagnac
+SQL
+SQLDevelopper : Pour crée la base de données et réalisé les requêtes
+WinDesign : Pour crée les diagrammes de classes
+Suite Office : Pour rédigez le compte rendu
+GitHub : Pour ce partagé le travail
 
-## Concept :
+## Contexte
 
-Ce projet est la création d'une base de donnée pour l'entreprise BECQUET qui établie des commandes à partir de bons de commandes  
+Projet créer dans le cadre d'une Situation d'Apprentissage et d'Évaluation à l'Institue Universitaire de Technologie de Blagnac.
 
